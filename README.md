@@ -134,32 +134,30 @@ Navigate to the Load Balancer endpoint of the EKS Service and verify that the He
 
 ### HA EC2
 #### EBS configurations
-<img width="1627" height="618" alt="ebs" src="https://github.com/user-attachments/assets/60ed970f-2665-4324-aa3d-18df231e42a8" />
+<img width="1627" height="618" alt="ebs" src="https://github.com/user-attachments/assets/10ff8b7e-f4e0-4781-b7a8-af0b78357388" />
 
 #### SG configurations
-<img width="1621" height="653" alt="sg" src="https://github.com/user-attachments/assets/ee1ac69f-f7d3-454f-98e6-90353f58aec7" />
+<img width="1621" height="653" alt="sg" src="https://github.com/user-attachments/assets/43483002-b65a-44eb-864f-3f4cd68bd9ca" />
 
 #### EC2 scaling
-<img width="1670" height="194" alt="ec2" src="https://github.com/user-attachments/assets/3a629671-940a-4de1-aa48-835613ed4322" />
+<img width="1670" height="194" alt="ec2" src="https://github.com/user-attachments/assets/090d7fe1-0305-4389-b019-f9c86aea57c1" />
 
 #### Invalid IP access test to EC2
-<img width="1156" height="69" alt="incorrect_ip_ssh" src="https://github.com/user-attachments/assets/bf58e80d-3e21-44c2-95a9-6964c657e30b" />
+<img width="1156" height="69" alt="incorrect_ip_ssh" src="https://github.com/user-attachments/assets/1f1db5b1-a138-4304-8cf2-7127507cf2ae" />
 
 #### Valid IP access test to EC2
-<img width="1156" height="111" alt="correct_ip_ssh" src="https://github.com/user-attachments/assets/11f67012-ecf9-42b7-bf43-2594a5f834a2" />
-<img width="791" height="263" alt="correct_ip_ssh2" src="https://github.com/user-attachments/assets/89ccba55-0bc6-4a2e-b070-ae03fa314bf8" />
-
+<img width="1156" height="111" alt="correct_ip_ssh" src="https://github.com/user-attachments/assets/739776b0-5cb7-4b08-a254-40924e0a3a59" />
+<img width="791" height="263" alt="correct_ip_ssh2" src="https://github.com/user-attachments/assets/9e186594-9623-4ca6-8944-761810180fa6" />
 
 ### EKS Deployment
 #### Busybox logs
-<img width="1573" height="112" alt="busybox" src="https://github.com/user-attachments/assets/11fd1501-9076-41de-b711-4e3d125ef944" />
+<img width="1573" height="112" alt="busybox" src="https://github.com/user-attachments/assets/c006aeb0-1e34-4687-ac39-511a7a19207d" />
 
 #### Invalid IP access test to website
-<img width="1382" height="812" alt="wrong_ip" src="https://github.com/user-attachments/assets/c317b931-6071-4c81-a475-fe0cad89aa14" />
+<img width="1382" height="812" alt="wrong_ip" src="https://github.com/user-attachments/assets/054c539d-9500-499b-bbde-be8ea1bc71e2" />
 
 #### Valid IP access test to website
-<img width="933" height="160" alt="correct_ip" src="https://github.com/user-attachments/assets/b551cb10-98ce-4661-9d68-40d4666a9ee7" />
-
+<img width="933" height="160" alt="correct_ip" src="https://github.com/user-attachments/assets/837d898c-860c-4185-9dd4-794cfce8eb71" />
 
 ---
 

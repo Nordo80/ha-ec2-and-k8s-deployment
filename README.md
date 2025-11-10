@@ -113,6 +113,14 @@ ssh -i my-app-kms-key.pem ec2-user@<ec2-ip>
 ```
 
 ### PART 2 — EKS Deployment
+Terraform actions:
+
+```bash
+cd applications/my-k8s/environment/development
+terraform init
+terraform plan
+terraform apply
+```
 
 ```bash
 aws eks update-kubeconfig --region eu-west-1 --name my-k8s-deployment
